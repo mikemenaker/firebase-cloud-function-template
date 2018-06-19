@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "source": "dist/functions",
+    "predeploy":
+      "npm run build"
+  }
+}
